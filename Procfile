@@ -1,0 +1,1 @@
+web: bundle exec microposts_controller.rb -p $PORT
